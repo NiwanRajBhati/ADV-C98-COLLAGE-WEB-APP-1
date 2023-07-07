@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif ;
+}
+#result{border:10px solid transparent ;
+}
+
+
+img:hover{
+    border-radius: 140px;
+}
+
